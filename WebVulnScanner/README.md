@@ -46,7 +46,7 @@ WebVulnScanner/
 
 ```bash
 # 1. Navigate to the project folder
-cd "d:\New folder\WebVulnScanner"
+cd "d:\webvulnscan-project\WebVulnScanner"
 
 # 2. Install dependencies
 pip install -r requirements.txt
