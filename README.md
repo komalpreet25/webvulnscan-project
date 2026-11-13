@@ -95,3 +95,12 @@ Unauthorized scanning may violate the **Computer Fraud and Abuse Act (CFAA)**
 or equivalent laws in your jurisdiction.
 
 **Never scan systems without explicit written permission from the owner.**
+
+## Author
+
+**Komalpreet Kaur**  
+Cyber Security Trainee
+
+This project was developed as part of my cybersecurity training to gain practical experience in web vulnerability assessment, security testing, and understanding common web application vulnerabilities.
+
+**Purpose:** Learning, practice, and educational purposes.
